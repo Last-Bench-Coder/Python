@@ -1,0 +1,5 @@
+[
+    {"empId": 100, "fullname": "Chakrapani U", "emailId": "chakrapani@test.com","Phone":9888556622},
+    {"empId": 101, "fullname": "shraddha u", "emailId": "shraddha@test.com","Phone":9988116622},
+    {"empId": 102, "fullname": "shreshta u", "emailId": "shreshta@test.com","Phone":99880056622}
+]
